@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FastFingers</string>
+    <string name="fast_fingers">Fast fingers</string>
+    <string name="are_you_ready_to_train_your_fingers_a_story_will_be_ngenerated_and_you_have_to_type_it_as_fast_as_possible_nand_your_time_will_be_timed">Are you ready to train your fingers? A story will be \ngenerated and you have to type it as fast as possible\nand your time will be timed.</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="when_begin_is_pressed_your_timer_will_begin_nwrite_it_as_quickly_as_you_can_i_believe_in_you_ngood_luck_and_happy_typing">When begin is pressed your timer will begin.\nWrite it as quickly as you can. I believe in you! \nGood luck and happy typing :)</string>
+</resources>
